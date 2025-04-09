@@ -1,0 +1,8 @@
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\bin\Debug\Hadasim_AA.exe.config
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\bin\Debug\Hadasim_AA.exe
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\bin\Debug\Hadasim_AA.pdb
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\obj\Debug\Hadasim_AA.csproj.AssemblyReference.cache
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\obj\Debug\Hadasim_AA.csproj.SuggestedBindingRedirects.cache
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\obj\Debug\Hadasim_AA.csproj.CoreCompileInputs.cache
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\obj\Debug\Hadasim_AA.exe
+C:\Users\מחשב\Desktop\C#\Hadasim_AA\Hadasim_AA\obj\Debug\Hadasim_AA.pdb
