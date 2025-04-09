@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "8kRIJn7av88kCxr8wNDLGq8Qon1cj8Gr+fXAe6E3STlQIfVDqrGJCpnuS+xRkeGZwdFPE7kBfumsse4DpBeVCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\מחשב\\Desktop\\Hadasim5\\חלק א C#\\HadasimB\\hadasimB\\hadasimB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\מחשב\\.nuget\\packages\\apache.arrow\\13.0.0\\apache.arrow.13.0.0.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\ironcompress\\1.6.3\\ironcompress.1.6.3.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.1\\microsoft.bcl.asyncinterfaces.9.0.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\parquet.net\\5.1.1\\parquet.net.5.1.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\parquetsharp\\18.1.0\\parquetsharp.18.1.0.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\snappier\\1.1.6\\snappier.1.1.6.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\מחשב\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
